@@ -18,7 +18,9 @@ npm install
 ## Usage
 
 ```sh
-**Create a `.env` file** in the root of the project and add your database connection string and server port:
+Create a '.env' file in the root of the project and add your database connection string and server port:
+  DATABASE_URL=your_database_url_here
+  PORT=3000
 ```
 
 ## Show your support
