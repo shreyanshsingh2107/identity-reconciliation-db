@@ -20,6 +20,13 @@ Create a '.env' file in the root of the project and add your database connection
   PORT=3000
 ```
 
+## Running the Server
+
+1. **Compile the TypeScript code**:
+    ```bash
+    npm run build
+    ```
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
